@@ -17,3 +17,9 @@ p{
     font-size: 3vw;
     word-wrap: break-word;
 }
+
+ul{
+    text-align: center;
+    list-style: inside;
+    font-size: 3vw;
+}
